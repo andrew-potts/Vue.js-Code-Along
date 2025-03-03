@@ -60,7 +60,6 @@ watchEffect(() => {
 
 const register = () => {
   alert("Registration successful!");
-  // Registration logic goes here
 };
 
 let wizard1 = ref({
